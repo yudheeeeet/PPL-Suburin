@@ -15,7 +15,7 @@
 4. extract file, terus extract lagi pokok sampe kebuka folder laravel
 5. folder laravel taruh di D biar gampang nnti ngaksesnya
 6. buka CMD
-7. terus buka filenya dari cmd (kan tadi foldenya ditaruh di D tinggal ketik di cmd:  cd /d d:\laravel))
+7. terus akses filenya dari cmd (kan tadi foldenya ditaruh di D tinggal ketik di cmd:  cd /d d:\laravel))
 8. terus buka xampp hidupin apache sm mySQL
 9. klik admin di mySQL
 10. buat baru database, kasih nama "subur.in" tanpa tanda petik
@@ -31,6 +31,17 @@
 20. ketik php artisan serve terus enter
 21. buka chrome (bebas pake firefox, explorer juga bisa) terus buka http://127.0.0.1:8000/
 
+22. ((note))
+kalomau buka webnya lagi gaperlu diulang steo diatas, cukup seperti ini
+1.  buka cmd
+2.  terus akses filenya dari cmd (kan tadi foldenya ditaruh di D tinggal ketik di cmd:  cd /d d:\laravel))
+3.  buka xampp, hidupin apache sama mySQL
+4.  klik admin mySQL
+5.  buka cmd lagi
+6.  ketik php artisan serve terus enter
+7.  buka chrome (bebas pake firefox, explorer juga bisa) terus buka http://127.0.0.1:8000/
+
+*
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
