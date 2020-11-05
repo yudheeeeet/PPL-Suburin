@@ -1,5 +1,5 @@
 
-<h1 align="center" color:"#3498DB" >CLEANING ART</h1>
+<h1 align="center" color:"#3498DB" >SUBUR.IN</h1>
 
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
@@ -43,6 +43,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-<p align="center"><img src="https://media1.tenor.com/images/e98a5d3d8a924d685e88361e93c5172a/tenor.gif?itemid=15792714" width="400"></p>
 <p align="center">
 
