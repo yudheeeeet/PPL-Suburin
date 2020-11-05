@@ -30,9 +30,10 @@
 19. ketik php artisan db:seed --class=UserSeeder terus enter
 20. ketik php artisan serve terus enter
 21. buka chrome (bebas pake firefox, explorer juga bisa) terus buka http://127.0.0.1:8000/
+22. ----------------------------------------------------------------------------------------------------
 
 22. ((note))
-kalomau buka webnya lagi gaperlu diulang steo diatas, cukup seperti ini
+kalo mau buka webnya lagi gaperlu diulang step diatas, cukup seperti ini
 1.  buka cmd
 2.  terus akses filenya dari cmd (kan tadi foldenya ditaruh di D tinggal ketik di cmd:  cd /d d:\laravel))
 3.  buka xampp, hidupin apache sama mySQL
