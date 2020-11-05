@@ -18,12 +18,18 @@
 7. terus buka filenya dari cmd (kan tadi foldenya ditaruh di D tinggal ketik di cmd:  cd /d d:\laravel))
 8. terus buka xampp hidupin apache sm mySQL
 9. klik admin di mySQL
-10. terus buat database baru kasih nama db sama dengan nomor langkah 7, "cleaningart"  tanpa td petik
-11. buka cmd lagi, ketik composer install (tunggu lama emang)
-12. kalo udah ketik php artisan key:generate
-13. php artisan migrate
-14. php artisan serve
-15. buka chrome (terserah sih), ketik http://localhost:8000/
+10. buat baru database, kasih nama "subur.in" tanpa tanda petik
+11. buka cmd lagi
+12.ketik composer install terus enter (tunggu lama)
+13.ketik php artisan key:generate terus enter
+14.ketik php artisan route:clear terus enter
+15.ketik php artisan config:clear terus enter
+16.ketik php artisan cache:clear terus enter
+17k.etik php artisan migrate terus enter
+18.ketik php artisan db:seed --class=RoleSeeder terus enter
+19.ketik php artisan db:seed --class=UserSeeder terus enter
+20.ketik php artisan serve terus enter
+21.buka chrome (bebas pake firefox, explorer juga bisa) terus buka http://127.0.0.1:8000/
 
 ## Contributing
 
