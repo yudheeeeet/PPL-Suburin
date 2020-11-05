@@ -9,18 +9,13 @@
 
 ## Cara Menggunakan
 
-1. Extract File 
-2. letakan di c: atau d: (bebas)
-3. beri name folder dangan "cleaningart" (bebas juga sih)
-4. buka cmd
-5. pindah ke lokasi tempat file td di taruh (ex: cd /d d:\cleaningart)
-6. ketik copy .env.example .env
-7. terus buka file .env edit seperti dibawah :
-
-	<p>DB_DATABASE=cleaningart</p>
-	<p>DB_USERNAME=root</p>
-	<p>DB_PASSWORD=</p>
-    </p>
+1. pastiin udah install xampp. kalo bisa yang terbaru biar phpnya yg terbaru juga
+2. install composer juga. cari di google bisa cara install composer, ga begitu ruwet kok
+3. download file zipnya di github
+4. extract file, terus extract lagi pokok sampe kebuka folder laravel
+5. folder laravel taruh di D biar gampang nnti ngaksesnya
+6. buka CMD
+7. terus buka filenya dari cmd (kan tadi foldenya ditaruh di D tinggal ketik di cmd:  cd /d d:\laravel))
 8. terus buka xampp hidupin apache sm mySQL
 9. klik admin di mySQL
 10. terus buat database baru kasih nama db sama dengan nomor langkah 7, "cleaningart"  tanpa td petik
