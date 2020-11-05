@@ -42,6 +42,10 @@ kalo mau buka webnya lagi gaperlu diulang step diatas, cukup seperti ini
 5.  buka cmd lagi
 6.  ketik php artisan serve terus enter
 7.  buka chrome (bebas pake firefox, explorer juga bisa) terus buka http://127.0.0.1:8000/
+1.  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2.  kalo daftar/login customer bisa lgs di page awal
+3.  kalo daftar mitra cuma bisa didaftarin sama admin, terus login pake akun yg udah didaftarin admin itu
+4.  admin cuma bisa login, untuk akunnya yang diatas itu 
 
 *
 ## Contributing
