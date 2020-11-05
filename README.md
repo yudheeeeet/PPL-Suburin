@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/a6/ab/5d/a6ab5dfc040546b50bb0b1576fe009fd.jpg" width="400"></p>
+
 <h1 align="center" color:"#3498DB" >CLEANING ART</h1>
 
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
