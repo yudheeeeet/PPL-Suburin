@@ -31,6 +31,7 @@
 20. ketik php artisan serve terus enter
 21. buka chrome (bebas pake firefox, explorer juga bisa) terus buka http://127.0.0.1:8000/
 22. ----------------------------------------------------------------------------------------------------
+23. untuk akses admin: ungkiaprilian@gmail.com pass: rahasia bulan
 
 22. ((note))
 kalo mau buka webnya lagi gaperlu diulang step diatas, cukup seperti ini
