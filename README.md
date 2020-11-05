@@ -1,4 +1,4 @@
-pastiin udah install xampp. kalo bisa yang terbaru biar phpnya yg terbaru juga
+1. pastiin udah install xampp. kalo bisa yang terbaru biar phpnya yg terbaru juga
 install composer juga. cari di google bisa cara install composer, ga begitu ruwet kok
 download file zipnya di github
 extract file, terus extract lagi pokok sampe kebuka folder laravel
@@ -16,5 +16,14 @@ ketik php artisan cache:clear terus enter
 ketik php artisan migrate terus enter
 ketik php artisan db:seed --class=RoleSeeder terus enter
 ketik php artisan db:seed --class=UserSeeder terus enter
+ketik php artisan serve terus enter
+buka chrome (bebas pake firefox, explorer juga bisa) terus buka http://127.0.0.1:8000/
+
+
+Note: kalo mau buka webnya lagi caranya tinggal
+buka cmd
+terus buka filenya dari cmd (kan tadi foldenya ditaruh di D tinggal ketik di cmd:  cd /d d:\laravel))
+buka xampp, idupin apache sama mysql
+buka cmd lagi
 ketik php artisan serve terus enter
 buka chrome (bebas pake firefox, explorer juga bisa) terus buka http://127.0.0.1:8000/
